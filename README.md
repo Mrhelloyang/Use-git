@@ -14,7 +14,7 @@ git init<br>
 
 
 ### 4提交全部项目<br>
-git add ."."是指当前文件夹（准备提交，暂存区）<br>
+git add .["."是指当前文件夹（准备提交，暂存区）]<br>
 git commit -m"备注"#备注一定要写（仓库）<br>
 查看<br>
 git log<br>
