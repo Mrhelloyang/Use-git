@@ -1,8 +1,8 @@
 # Use-git
 
 ##git的初始化##
-git  config --global user.name Mrhelloyang#git命名
-git  config --global user.email 2131424889@qq.com#选择邮箱
+##git  config --global user.name Mrhelloyang#git命名
+##git  config --global user.email 2131424889@qq.com#选择邮箱
 
 
 下载github文件
