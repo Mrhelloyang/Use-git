@@ -1,11 +1,11 @@
 # Use-git
 
-##git的初始化##
-##git  config --global user.name Mrhelloyang#git命名
-##git  config --global user.email 2131424889@qq.com#选择邮箱
+##git的初始化
+##git  config --global user.name Mrhelloyang命名
+##git  config --global user.email 2131424889@qq.com选择邮箱
 
 
-下载github文件
+下载github文件<br>
 git clone+（文件的GitHub链接）
 
 
